@@ -1362,7 +1362,8 @@
         "device": [
           "Asus Chromebook CX1700CKA"
         ],
-        "boardname": "GALLOP"
+        "boardname": "GALLOP",
+        "linux": "No audio. Cameras work."
       },
       {
         "device": [
